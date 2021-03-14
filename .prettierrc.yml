@@ -1,4 +1,4 @@
 semi: false
-trailingComma: "all"
 tabWidth: 2
+trailingComma: none
 singleQuote: true
